@@ -16,8 +16,17 @@ Este es un proyecto web básico que presenta una galería de servicios y product
 ## Estructura del proyecto
 
 d5-galeria-ecommerce/
-├── index.html
-└── README.md
+
+actividad_6/ 
+├──_css 
+├ ├──styles.css 
+├──_img 
+├ ├──image1.png 
+├ ├──image2.png 
+├ ├──image3.png 
+├ ├──image4.png 
+├── index.html 
+├── README.md
 
 Autor: Ana Sofia Sanchez Rivera
 Ficha: 3147251
